@@ -1,0 +1,18 @@
+
+   h1 {
+    font-family: 'Arial', sans-serif;
+    color: blue;
+}
+
+p {
+    font-family: 'Georgia', serif;
+    color: green;
+}
+
+/* Create a custom class */
+.my-text-style {
+    font-size: 18px;
+    color: red;
+}
+
+
